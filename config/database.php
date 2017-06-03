@@ -68,7 +68,7 @@ return [
             //'username' => env('DB_USERNAME', 'forge'),
             'username' => env('DB_USERNAME', 'juejcptglzwvbz'),
             //'password' => env('DB_PASSWORD', ''),
-            'password' => env('DB_PASSWORD', 'f87e7e34e943457c7e3701a56fb901c122b922fc8cd0e7ac0f4b9d0e479866b7git'),
+            'password' => env('DB_PASSWORD', 'f87e7e34e943457c7e3701a56fb901c122b922fc8cd0e7ac0f4b9d0e479866b7'),
             'charset' => 'utf8',
             'prefix' => '',
             'schema' => 'public',
